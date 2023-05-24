@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Export-theme-/static/css/main.b89dfc4a.css",
+    "main.js": "/Export-theme-/static/js/main.2f0b8afd.js",
+    "index.html": "/Export-theme-/index.html",
+    "main.b89dfc4a.css.map": "/Export-theme-/static/css/main.b89dfc4a.css.map",
+    "main.2f0b8afd.js.map": "/Export-theme-/static/js/main.2f0b8afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89dfc4a.css",
+    "static/js/main.2f0b8afd.js"
+  ]
+}
