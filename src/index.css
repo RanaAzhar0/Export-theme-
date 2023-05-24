@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.swiper {
+  width: 85%;
+  height: 45vh;
+  margin-left: 500px;
+  margin-bottom: 50px;
+}
+
+.dark-mode{
+  background-color: black;
+  color: white; 
+
+}
+
+.dark-mode nav{
+  background-color: black;
+  color: white;
+}
+
+.dark-mode ul{
+  background-color: black;
+
+}
+.dark-mode li{
+  background-color: black;
+
+}
+.dark-mode a{
+  color: white;
+
+}
+.dark-mode .boder{
+  border-left: 2px solid slategray;
+}
+.boder{
+  border-left: 2px solid black;
+}
